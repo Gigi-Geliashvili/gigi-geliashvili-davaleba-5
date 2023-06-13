@@ -1,0 +1,275 @@
+body {
+	padding: 54px 52px;
+}
+
+.header-image {
+	width: 223px;
+    height: 58px;
+    vertical-align: middle;
+}
+
+a {
+	color: #8D81FF;
+	font-weight: 700;
+    font-size: 26px;
+}
+
+.active {
+	color: #4E6FAE;
+}
+
+nav {
+	display: inline-block;
+}
+
+li {
+	display: inline;
+	margin-left: 60px;
+}
+
+
+.date {
+	width: 50px;
+	height: 50px;
+	background: #5012D5;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 28px;
+	color: #84FF81;
+	text-align: center;
+	padding-top: 8px;
+	margin-top: 40px;
+}
+
+section {
+	margin-top: 52px;
+}
+
+h3 {
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 29px;
+	color: #8D81FF;
+	margin-top: 10px;
+}
+
+h4 {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 24px;
+	color: #4E6FAE;
+	margin-top: 10px;
+	margin-bottom: 13px;
+}
+
+.image-1 {
+	width: 447px;
+	height: 280px;
+}
+
+p {
+	margin-bottom: 15px;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+	color: #4E6FAE;
+}
+
+.content {
+	width: 780px;
+	vertical-align: top;
+	display: inline-block; 
+	margin-left: 60px;
+	font-family: "BPG Square", sans-serif;
+}
+
+.content-2 {
+	width: 780px;
+	margin-top: 32px;
+	vertical-align: top;
+	display: inline-block; 
+	margin-left: 60px;
+	font-family: "BPG Nostalgia", sans-serif;
+}
+
+
+footer {
+	margin-top: 52px;
+}
+
+footer img {
+	margin-right: 40px;
+}
+
+.contact-section {
+	background: #E7E7E7;
+	padding: 90px;
+}
+
+.map {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 420px;
+	margin-top: -170px;
+}
+
+h5 {
+	font-weight: 700;
+	font-size: 26px;
+	color: #4E6FAE;
+	margin-top: 70px;
+	display: inline-block;
+}
+.html {
+	margin-top: 85px;
+}
+
+.line {
+	display: inline;
+	margin-left: 18px;
+	margin-top: 10px;
+}
+
+.news {
+	font-weight: 400;
+	font-size: 26px;
+	color: #4E6FAE;
+	margin-left: 17px;
+}
+
+.class1 {
+	position: absolute;
+	width: 500px;
+	height: 192px;
+	background: #E7E7E7;
+	vertical-align: top;
+}
+
+h1 {
+	font-weight: 400;
+	font-size: 20px;
+	color: #3F4145;
+	margin-top: 21px;
+	margin-left: 23px;
+}
+
+.class2 {
+	margin-top: 50px;
+	margin-left: 36px;
+	width: 77px;
+	height: 77px;
+	background: url(image.png);
+	vertical-align: center;
+
+}
+
+.class3 {
+	font-weight: 400px;
+	font-size: 16px;
+	color: #7E8898;
+	display: inline-block;
+	vertical-align: top;
+	width: 335px;
+	height: 95px;
+	margin-left: 150px;
+	margin-top: -115px;
+}
+h2 {
+	font-weight: 700;
+	font-size: 36px;
+	color: #4E6FAE;
+	margin-left: -50px;
+	vertical-align: center;
+}
+
+.class4 {
+	margin-top: 23px;
+	font-weight: 400;
+	font-size: 20px;
+	color: #7E8898;
+}
+
+.class5 {
+	font-weight: 400;
+	font-size: 20px;
+	color: #3F4145;
+}
+
+.class6 {
+	width: 500px;
+	height: 192px;
+	background: #E7E7E7;
+	vertical-align: top;
+	display: inline-block;
+	margin-left: 600px;
+
+}
+
+.class7 {
+	width: 89px;
+	height: 89px;
+	background: url(image.png);
+}
+
+.class8 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 20px;
+	color: #3F4145;
+}
+
+.container {
+	width: 1052px;
+}
+
+.card {
+	width: 500px;
+	height: 192px;
+	background: #E7E7E7;
+	display: inline-block;
+	vertical-align: top;
+
+	padding: 20px 15px 32px 23px;
+}
+
+.card1 {
+	margin-right: 48px;
+}
+
+.name {
+	font-family: 'Helvetica Neue LT GEO';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 24px;
+	color: #3F4145;
+	margin-bottom: 20px;
+	margin-left: 23px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.text {
+	width: 335px;
+	height: 95px;
+	font-family: 'Helvetica Neue LT GEO';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+	color: #7E8898;
+	display: inline-block;
+	font-family: 'Roboto', sans-serif;
+}
+
+.img {
+	height: 77px;
+	width: 77px;
+	margin-right: 37px;
+}
+
+.list {
+	display: inline-block;
+}
+.list2 {
+	display: block;
+}
